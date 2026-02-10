@@ -1,4 +1,4 @@
-# DeskBot--Personal-Laptop-Assistant-
+
 # DeskBot – Personal Laptop AI Assistant
 
 ## Project Overview
@@ -43,4 +43,4 @@ The assistant applies **AI-assisted automation concepts** commonly used in enter
 
 ---
 
-## 📂 Project Structure
+
